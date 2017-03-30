@@ -17,3 +17,19 @@ function showFromBehind(testWord) {
 
   alert(finalWord);
 }
+
+function string1() {
+  alert(1 + "2" + "2");
+}
+function string2() {
+  alert(1 + "2" + 2);
+}
+function string3() {
+  alert(1 - "2" + 2);
+}
+function string4() {
+  alert( 1 +  + 2 + "3" )
+}
+function string5() {
+  alert( 1 -  + 2 + "3" )
+}
